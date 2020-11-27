@@ -2,7 +2,7 @@
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://cdn.statically.io/gh/dhuma/aprie/c55ebad1/jquery.min.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 
 /*! Sharethis | sticky-share-buttons */
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://cdn.statically.io/gh/dhuma/aprie/cf7e695f/plugin.min.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://cdn.statically.io/gh/dhuma/aprie/0c5797f5/plugin.min.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 
 /*! Main Menu */
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://cdn.statically.io/gh/dhuma/aprie/0b2060e8/main-menu.min.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
